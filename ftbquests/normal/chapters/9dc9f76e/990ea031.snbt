@@ -1,0 +1,24 @@
+{
+	x: 0.0d,
+	y: -1.0d,
+	text: [
+		"This modpack have a global difficulty system. Basically, the longer you play the game, the more difficult it is going to be.",
+		"",
+		"Please check Guides section for detailed info."
+	],
+	dependencies: [
+		"ef285682"
+	],
+	tasks: [{
+		uid: "2c360b1f",
+		type: "item",
+		items: [{
+			item: "scalinghealth:healingitem"
+		}]
+	}],
+	rewards: [{
+		uid: "fddbb462",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

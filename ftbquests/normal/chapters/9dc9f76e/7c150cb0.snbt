@@ -1,0 +1,24 @@
+{
+	x: -3.0d,
+	y: -7.0d,
+	dependencies: [
+		"22b2b6e8"
+	],
+	tasks: [{
+		uid: "9a5e33e6",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:peat_unbaked"
+		}]
+	}],
+	rewards: [{
+		uid: "be98bb66",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "31d0587c",
+		type: "item",
+		item: "aquaculture:loot 1 5"
+	}]
+}

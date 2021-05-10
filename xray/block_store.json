@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Pila de Oro",
+    "stateString": "iceandfire:goldpile[layers\u003d1]",
+    "stateId": 2411,
+    "order": 10,
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 255
+    },
+    "drawing": false
+  },
+  {
+    "name": "Nether Quart",
+    "stateString": "minecraft:quartz_ore",
+    "stateId": 153,
+    "order": 6,
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
+    "drawing": false
+  },
+  {
+    "name": "Lirio de Escarcha",
+    "stateString": "iceandfire:frost_lily",
+    "stateId": 2410,
+    "order": 13,
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 0
+    },
+    "drawing": false
+  },
+  {
+    "name": "Tronco de roble",
+    "stateString": "minecraft:log[axis\u003dy,variant\u003doak]",
+    "stateId": 17,
+    "order": 18,
+    "color": {
+      "r": 0,
+      "g": 166,
+      "b": 255
+    },
+    "drawing": false
+  },
+  {
+    "name": "Pila de Plata",
+    "stateString": "iceandfire:silverpile[layers\u003d1]",
+    "stateId": 2412,
+    "order": 9,
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 255
+    },
+    "drawing": false
+  },
+  {
+    "name": "Tronco de acacia",
+    "stateString": "minecraft:log2[axis\u003dy,variant\u003dacacia]",
+    "stateId": 162,
+    "order": 17,
+    "color": {
+      "r": 0,
+      "g": 177,
+      "b": 255
+    },
+    "drawing": false
+  },
+  {
+    "name": "Mena de Escabita",
+    "stateString": "thebetweenlands:scabyst_ore",
+    "stateId": 67504,
+    "order": 19,
+    "color": {
+      "r": 0,
+      "g": 166,
+      "b": 255
+    },
+    "drawing": true
+  },
+  {
+    "name": "Coal Ore",
+    "stateString": "minecraft:coal_ore",
+    "stateId": 16,
+    "order": 1,
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    },
+    "drawing": false
+  },
+  {
+    "name": "Lirio de Fuego",
+    "stateString": "iceandfire:fire_lily",
+    "stateId": 2409,
+    "order": 12,
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 255
+    },
+    "drawing": false
+  },
+  {
+    "name": "Diamond Ore",
+    "stateString": "minecraft:diamond_ore",
+    "stateId": 56,
+    "order": 4,
+    "color": {
+      "r": 136,
+      "g": 136,
+      "b": 255
+    },
+    "drawing": false
+  },
+  {
+    "name": "Lapis",
+    "stateString": "minecraft:lapis_ore",
+    "stateId": 21,
+    "order": 7,
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 255
+    },
+    "drawing": false
+  },
+  {
+    "name": "Gold Ore",
+    "stateString": "minecraft:gold_ore",
+    "stateId": 14,
+    "order": 2,
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 0
+    },
+    "drawing": false
+  },
+  {
+    "name": "Bloque de Cuarzo",
+    "stateString": "chisel:quartz[variation\u003d0]",
+    "stateId": 1736,
+    "order": 15,
+    "color": {
+      "r": 0,
+      "g": 15,
+      "b": 255
+    },
+    "drawing": false
+  },
+  {
+    "name": "Redstone Ore",
+    "stateString": "minecraft:redstone_ore",
+    "stateId": 73,
+    "order": 3,
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 0
+    },
+    "drawing": false
+  },
+  {
+    "name": "Cuarzo",
+    "stateString": "minecraft:quartz_block[variant\u003ddefault]",
+    "stateId": 155,
+    "order": 14,
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 0
+    },
+    "drawing": false
+  },
+  {
+    "name": "Entropy Crystal",
+    "stateString": "thaumcraft:crystal_perditio[gen\u003d1,size\u003d0]",
+    "stateId": 1844,
+    "order": 11,
+    "color": {
+      "r": 0,
+      "g": 255,
+      "b": 255
+    },
+    "drawing": false
+  },
+  {
+    "name": "Piedra luminosa",
+    "stateString": "minecraft:glowstone",
+    "stateId": 89,
+    "order": 16,
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
+    "drawing": false
+  },
+  {
+    "name": "Iron Ore",
+    "stateString": "minecraft:iron_ore",
+    "stateId": 15,
+    "order": 0,
+    "color": {
+      "r": 170,
+      "g": 117,
+      "b": 37
+    },
+    "drawing": false
+  },
+  {
+    "name": "Emerald Ore",
+    "stateString": "minecraft:emerald_ore",
+    "stateId": 129,
+    "order": 5,
+    "color": {
+      "r": 0,
+      "g": 136,
+      "b": 10
+    },
+    "drawing": false
+  }
+]

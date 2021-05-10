@@ -1,0 +1,32 @@
+[
+ {
+  "id": "mods",
+  "title": "Mods",
+  "icon": "item:ftbquests:book"
+ },
+ {
+  "id": "the_world",
+  "title": "The World",
+  "icon": "item:minecraft:dirt"
+ },
+ {
+  "id": "interface",
+  "title": "Interface",
+  "icon": "item:minecraft:chest"
+ },
+ {
+  "id": "scaling",
+  "title": "Scaling Health(Difficulty system)",
+  "icon": "item:scalinghealth:heartcontainer"
+ },
+ {
+  "id": "tools",
+  "title": "Quality tools",
+  "icon": "item:qualitytools:emerald_ring"
+ },
+  {
+  "id": "levelup",
+  "title": "Level Up!",
+  "icon": "item:minecraft:experience_bottle"
+ }
+]

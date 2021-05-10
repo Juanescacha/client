@@ -1,0 +1,16 @@
+{
+	x: -5.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "099e5a75",
+		type: "item",
+		items: [{
+			item: "erebus:altar_offering"
+		}]
+	}],
+	rewards: [{
+		uid: "1175aa98",
+		type: "item",
+		item: "roughtweaks:bandage"
+	}]
+}

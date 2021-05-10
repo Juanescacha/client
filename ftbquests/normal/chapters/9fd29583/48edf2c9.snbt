@@ -1,0 +1,29 @@
+{
+	x: 7.0d,
+	y: 3.0d,
+	dependencies: [
+		"3431a977"
+	],
+	tasks: [{
+		uid: "da33bd53",
+		type: "item",
+		items: [{
+			id: "erebus:compound_goggles",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ba580818",
+		type: "item",
+		item: {
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:water_breathing"
+			}
+		}
+	}]
+}

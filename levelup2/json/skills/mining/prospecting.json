@@ -1,0 +1,16 @@
+{
+  "levels": [
+    15,
+    25,
+    35,
+    45,
+    60
+  ],
+  "prerequisites": [
+    "levelup:stonecutting"
+  ],
+  "column": 1,
+  "row": 1,
+  "enabled": true,
+  "active": true
+}

@@ -1,0 +1,26 @@
+{
+	x: 8.0d,
+	y: 0.5d,
+	dependencies: [
+		"3b31d441"
+	],
+	tasks: [{
+		uid: "d7150a1c",
+		type: "item",
+		items: [{
+			item: "erebus:jade_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "55c5ba0c",
+		type: "item",
+		item: "erebus:heart_berries"
+	},
+	{
+		uid: "3438a741",
+		type: "item",
+		item: "roughtweaks:salve"
+	}]
+}

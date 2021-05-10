@@ -1,0 +1,21 @@
+{
+	x: -1.0d,
+	y: 0.0d,
+	dependencies: [
+		"1549b7d7",
+		"cbffb26d",
+		"ae4f010c"
+	],
+	tasks: [{
+		uid: "3da42431",
+		type: "item",
+		items: [{
+			item: "erebus:materials 1 38"
+		}]
+	}],
+	rewards: [{
+		uid: "77c134ca",
+		type: "item",
+		item: "roughtweaks:medikit"
+	}]
+}
