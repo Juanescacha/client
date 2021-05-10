@@ -1,0 +1,59 @@
+{
+    "general": {
+        "show_first_time_modal": false,
+        "debug_playback_ticks": false,
+        "green_screen_sky": false,
+        "green_screen_sky_color": -16711936,
+        "url_skins_sync_download": true,
+        "add_utility_blocks": false,
+        "cached_structure_rendering": true,
+        "bb_gun_sync_distance": 0.0
+    },
+    "model_block": {
+        "model_block_disable_rendering": false,
+        "model_block_disable_item_rendering": false,
+        "restore": false,
+        "reset_on_playback": false
+    },
+    "recording": {
+        "recording_countdown": 1.5,
+        "record_unload_time": 2400,
+        "record_unload": true,
+        "record_sync_rate": 6,
+        "record_attack_on_swipe": true,
+        "record_commands": true,
+        "record_chat_prefix": "",
+        "record_pause_preview": true
+    },
+    "scenes": {
+        "save_update": true
+    },
+    "actor": {
+        "actor_fall_damage": true,
+        "actor_tracking_range": 256,
+        "actor_rendering_range": 256,
+        "actor_always_render": false,
+        "actor_always_render_names": false,
+        "actor_swish_swipe": false,
+        "actor_y": false,
+        "actor_disable_riding": false,
+        "actor_playback_body_yaw": true
+    },
+    "damage_control": {
+        "damage_control": true,
+        "damage_control_distance": 64
+    },
+    "model_folders": {
+        "path": ""
+    },
+    "snowstorm": {
+        "depth_sorting": false
+    },
+    "audio": {
+        "waveform_visible": true,
+        "waveform_density": 20,
+        "waveform_width": 0.5,
+        "waveform_height": 24,
+        "waveform_filename": true
+    }
+}
