@@ -1,0 +1,26 @@
+{
+    "fixtures": [
+        {
+            "position": {
+                "point": {
+                    "x": -2034.4402587681957,
+                    "y": 74.89999999999984,
+                    "z": 3751.7256961978273
+                },
+                "angle": {
+                    "yaw": -322.7861,
+                    "pitch": 33.450024,
+                    "roll": 0.0,
+                    "fov": 70.0
+                }
+            },
+            "duration": 30,
+            "name": "Posicion 1",
+            "color": 0,
+            "modifiers": [],
+            "type": "idle"
+        }
+    ],
+    "modifiers": [],
+    "curves": {}
+}
