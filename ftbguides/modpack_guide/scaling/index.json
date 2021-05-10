@@ -1,0 +1,17 @@
+[
+ {
+  "id": "kits",
+  "title": "Bandages and Medkits",
+  "icon": "item:scalinghealth:healingitem"
+ },
+ {
+  "id": "crystals",
+  "title": "Heart Crystal",
+  "icon": "item:scalinghealth:heartcontainer"
+ },
+ {
+  "id": "hearts",
+  "title": "Cursed and Enchanted Hearts",
+  "icon": "item:scalinghealth:difficultychanger"
+ }
+]

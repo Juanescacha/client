@@ -1,0 +1,22 @@
+{
+	x: -4.0d,
+	y: -1.0d,
+	text: [
+		"Available storage options"
+	],
+	dependencies: [
+		"16c3f3d7"
+	],
+	tasks: [{
+		uid: "c412b8c4",
+		type: "item",
+		items: [{
+			item: "minecraft:chest"
+		}]
+	}],
+	rewards: [{
+		uid: "046dc755",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

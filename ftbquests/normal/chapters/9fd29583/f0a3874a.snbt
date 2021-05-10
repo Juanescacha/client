@@ -1,0 +1,19 @@
+{
+	x: 7.0d,
+	y: -1.0d,
+	dependencies: [
+		"3b31d441"
+	],
+	tasks: [{
+		uid: "7e73a4e1",
+		type: "item",
+		items: [{
+			item: "erebus:stag_heart_cooked"
+		}]
+	}],
+	rewards: [{
+		uid: "bf5b53cc",
+		type: "item",
+		item: "aquaculture:loot 1 6"
+	}]
+}

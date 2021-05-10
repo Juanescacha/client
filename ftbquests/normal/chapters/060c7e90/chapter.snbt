@@ -1,0 +1,10 @@
+{
+	title: "Some wizardry required",
+	icon: "ebwizardry:wizard_hat",
+	description: [
+		"You are a wizards, Harry!"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

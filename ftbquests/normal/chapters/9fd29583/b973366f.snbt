@@ -1,0 +1,24 @@
+{
+	x: 6.0d,
+	y: -4.0d,
+	dependencies: [
+		"fa397c70"
+	],
+	tasks: [{
+		uid: "c62d00e8",
+		type: "item",
+		items: [{
+			item: "erebus:altar_lightning"
+		}]
+	}],
+	rewards: [{
+		uid: "06546c6f",
+		type: "item",
+		item: {
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:invisibility"
+			}
+		}
+	}]
+}

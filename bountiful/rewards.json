@@ -1,0 +1,46 @@
+[
+  {
+    "content": "minecraft:gold_nugget",
+    "unitWorth": 100
+  },
+  {
+    "content": "minecraft:coal:1",
+    "unitWorth": 100
+  },
+  {
+    "content": "dungeontactics:bag_food",
+    "unitWorth": 300
+  },
+  {
+    "content": "dungeontactics:bag_potion",
+    "unitWorth": 300
+  },
+  {
+    "content": "minecraft:redstone",
+    "unitWorth": 500
+  },
+  {
+    "content": "dungeontactics:bag_ore",
+    "unitWorth": 800
+  },
+  {
+    "content": "minecraft:gold_ingot",
+    "unitWorth": 600
+  },
+  {
+    "content": "bountiful:bounty",
+    "unitWorth": 600
+  },
+  {
+    "content": "minecraft:lapis_block",
+    "unitWorth": 800
+  },
+  {
+    "content": "dungeontactics:bag_tool",
+    "unitWorth": 800
+  },
+  {
+    "content": "chancecubes:chance_cube",
+    "unitWorth": 1000
+  }
+]
