@@ -1,0 +1,21 @@
+{
+	x: 3.5d,
+	y: -4.0d,
+	dependencies: [
+		"60a4c6ee"
+	],
+	tasks: [{
+		uid: "f0ad37a2",
+		type: "item",
+		items: [{
+			item: "erebus:anti_venom_bottle"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "227029a9",
+		type: "item",
+		item: "erebus:heart_berries"
+	}]
+}

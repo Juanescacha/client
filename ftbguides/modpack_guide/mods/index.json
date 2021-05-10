@@ -1,0 +1,32 @@
+[
+ {
+  "id": "betweenlands",
+  "title": "The Betweenlands",
+  "icon": "item:thebetweenlands:swamp_talisman"
+ },
+ {
+  "id": "livingench",
+  "title": "Living Enchantment",
+  "icon": "item:minecraft:enchanted_book"
+ },
+ {
+  "id": "tomb",
+  "title": "Corail Tombstone",
+  "icon": "item:tombstone:dust_of_vanishing"
+ },
+ {
+  "id": "doors",
+  "title": "Dimensional doors",
+  "icon": "item:dimdoors:oak_dimensional_door"
+ },
+ {
+  "id": "cavern",
+  "title": "Cavern dimension",
+  "icon": "item:cavern:cavern_portal"
+ },
+ {
+  "id": "tents",
+  "title": "Nomadic tents",
+  "icon": "item:yurtmod:tent"
+ }
+]

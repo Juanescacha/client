@@ -1,0 +1,21 @@
+{
+	x: 0.0d,
+	y: -7.0d,
+	dependencies: [
+		"73298fe2"
+	],
+	tasks: [{
+		uid: "077da8ce",
+		type: "item",
+		items: [{
+			item: "extrautils2:drum 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "7f7badc0",
+		type: "item",
+		item: "minecraft:emerald",
+		count: 2,
+		random_bonus: 3
+	}]
+}

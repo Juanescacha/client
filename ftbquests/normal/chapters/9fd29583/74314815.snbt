@@ -1,0 +1,69 @@
+{
+	x: 4.5d,
+	y: 2.0d,
+	dependencies: [
+		"3b31d441"
+	],
+	tasks: [{
+		uid: "8844fa8c",
+		type: "item",
+		items: [{
+			item: "erebus:sapling_cypress"
+		}]
+	},
+	{
+		uid: "c3c580a2",
+		type: "item",
+		items: [{
+			item: "erebus:sapling_eucalyptus"
+		}]
+	},
+	{
+		uid: "d555eb51",
+		type: "item",
+		items: [{
+			item: "erebus:sapling_mossbark"
+		}]
+	},
+	{
+		uid: "a4d7acb6",
+		type: "item",
+		items: [{
+			item: "erebus:sapling_asper"
+		}]
+	},
+	{
+		uid: "c2d07181",
+		type: "item",
+		items: [{
+			item: "erebus:sapling_baobab"
+		}]
+	},
+	{
+		uid: "13d1c0d7",
+		type: "item",
+		items: [{
+			item: "erebus:sapling_mahogany"
+		}]
+	},
+	{
+		uid: "11134f02",
+		type: "item",
+		items: [{
+			item: "erebus:sapling_marshwood"
+		}]
+	},
+	{
+		uid: "25677307",
+		type: "item",
+		items: [{
+			item: "erebus:sapling_balsam"
+		}]
+	}],
+	rewards: [{
+		uid: "2a3d92f5",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 3
+	}]
+}

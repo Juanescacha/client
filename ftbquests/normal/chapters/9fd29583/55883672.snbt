@@ -1,0 +1,24 @@
+{
+	x: 7.0d,
+	y: 5.0d,
+	dependencies: [
+		"aadac393"
+	],
+	tasks: [{
+		uid: "89e2de38",
+		type: "item",
+		items: [{
+			item: "erebus:planticide"
+		}]
+	}],
+	rewards: [{
+		uid: "8d8161b2",
+		type: "item",
+		item: "roughtweaks:salve"
+	},
+	{
+		uid: "c7e71a2f",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

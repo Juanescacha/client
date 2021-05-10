@@ -1,0 +1,19 @@
+{
+	x: -3.0d,
+	y: -9.0d,
+	dependencies: [
+		"f0e379d8"
+	],
+	tasks: [{
+		uid: "a6c8913c",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:peat_generator"
+		}]
+	}],
+	rewards: [{
+		uid: "f3720575",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,17 @@
+[
+ {
+  "id": "getting",
+  "title": "Getting there",
+  "icon": "item:thebetweenlands:swamp_talisman"
+ },
+ {
+  "id": "guide",
+  "title": "Basic guide to survival",
+  "icon": "item:thebetweenlands:swamp_talisman"
+ },
+ {
+  "id": "tools",
+  "title": "New tools",
+  "icon": "item:thebetweenlands:swamp_talisman"
+ }
+]

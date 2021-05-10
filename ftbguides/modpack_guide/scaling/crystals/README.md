@@ -1,0 +1,1 @@
+Heart crystals are used to increase players' maximum health. They can drop when mobs are killed or crafted from heart crystal shards. Simply use (right-click) them to gain one extra heart per container. Heart containers also restore a couple extra hearts.

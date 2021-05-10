@@ -1,0 +1,26 @@
+{
+	x: 6.0d,
+	y: -2.0d,
+	dependencies: [
+		"3b31d441"
+	],
+	tasks: [{
+		uid: "58c5b10c",
+		type: "item",
+		items: [{
+			item: "erebus:wand_of_animation"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2c39c6aa",
+		type: "item",
+		item: "aquaculture:loot 1 6"
+	},
+	{
+		uid: "a9659ad0",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	x: -4.0d,
+	y: -4.0d,
+	dependencies: [
+		"16c3f3d7"
+	],
+	tasks: [{
+		uid: "48faf463",
+		type: "item",
+		items: [{
+			item: "yoyos:wooden_yoyo"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "20acc756",
+		type: "item",
+		item: {
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:bless"
+			}
+		}
+	}]
+}
